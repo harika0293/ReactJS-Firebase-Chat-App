@@ -15,7 +15,7 @@ function App() {
         <Routes>
           <Route path='/' element={<Login />} />
           <Route
-            path='/chat/'
+            path='/chat'
             element={
               <ProtectedRoute>
                 <DrawerContextProvider>
@@ -24,7 +24,7 @@ function App() {
               </ProtectedRoute>
             }
           />
-          {/* <Route path='*' element={<PageNotFound />} /> */}
+         <Route path='*' element={<chat />} /> 
         </Routes>
         <Toaster />
       </UserAuthContextProvider>
