@@ -15,7 +15,7 @@ function App() {
         <Routes>
           <Route path='/' element={<Login />} />
           <Route
-            path='/chat'
+            path='/ReactJS-Firebase-Chat-App/'
             element={
               <ProtectedRoute>
                 <DrawerContextProvider>
