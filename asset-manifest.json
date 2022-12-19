@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Firebase-Chat-App/static/css/main.52948048.css",
+    "main.js": "/ReactJS-Firebase-Chat-App/static/js/main.d327abdd.js",
+    "static/js/787.60f2841c.chunk.js": "/ReactJS-Firebase-Chat-App/static/js/787.60f2841c.chunk.js",
+    "static/media/Lavender.jpg": "/ReactJS-Firebase-Chat-App/static/media/Lavender.34c30dbfa08df7e649cd.jpg",
+    "index.html": "/ReactJS-Firebase-Chat-App/index.html",
+    "main.52948048.css.map": "/ReactJS-Firebase-Chat-App/static/css/main.52948048.css.map",
+    "main.d327abdd.js.map": "/ReactJS-Firebase-Chat-App/static/js/main.d327abdd.js.map",
+    "787.60f2841c.chunk.js.map": "/ReactJS-Firebase-Chat-App/static/js/787.60f2841c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52948048.css",
+    "static/js/main.d327abdd.js"
+  ]
+}
