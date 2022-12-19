@@ -15,7 +15,7 @@ function App() {
         <Routes>
           <Route path='/' element={<Login />} />
           <Route
-            path='/chat'
+            path='/chat/'
             element={
               <ProtectedRoute>
                 <DrawerContextProvider>
